@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7B2FBE,100:00FFFF&height=200&section=header&text=mhraju069&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=BB86FC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7B2FBE,100:00FFFF&height=200&section=header&text=MAHADI%20HASAN&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=BB86FC"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Motto      : "Any sufficiently advanced code is
 
 ---
 
-## 🧠 &nbsp;About Me
+## &nbsp;About Me
 
 - 🔭 &nbsp;Engineering robust **backend systems** and scalable **cloud infrastructure**
 - 🐳 &nbsp;Containerizing everything with **Docker** & orchestrating with **Kubernetes**
@@ -39,78 +39,38 @@ Motto      : "Any sufficiently advanced code is
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+## &nbsp;Tech Arsenal
 
-### ⚙️ Backend
+### 🐍 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark&perline=8" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-plain.svg" title="Celery" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="48"/>
 </p>
 
 ### 🗄️ Databases & Messaging
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark&perline=8" />
 </p>
 
-### 🐳 DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx&theme=dark&perline=8" />
 </p>
 
 ### 🔁 CI/CD & IaC
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,terraform,ansible,prometheus,grafana&theme=dark&perline=8" />
 </p>
 
 ### 🖥️ OS & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark&perline=8" />
 </p>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhraju069&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&icon_color=BB86FC&text_color=c9d1d9"/>
@@ -124,13 +84,7 @@ Motto      : "Any sufficiently advanced code is
 
 ---
 
-## 📈  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhraju069&bg_color=0d0d0d&color=00FFFF&line=BB86FC&point=00FFFF&area=true&area_color=7B2FBE&hide_border=true&title_color=00FFFF" alt="Contribution Graph"/>
-</p>
-
-## 🐍 &nbsp;Contribution Snake
+## &nbsp;Contribution Snake
 
 <p align="center">
   <picture>
@@ -142,21 +96,67 @@ Motto      : "Any sufficiently advanced code is
 
 ---
 
-## 📡 &nbsp;Connect with Me
+## Contribution Graph
 
-<p align="left">
-  <a href="https://github.com/mhraju069" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mhraju069-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mhraju069" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mhraju069@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-7B2FBE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhraju069&bg_color=0d0d0d&color=00FFFF&line=BB86FC&point=00FFFF&area=true&area_color=7B2FBE&hide_border=true&title_color=00FFFF" alt="Contribution Graph"/>
 </p>
+
+---
+
+## 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhraju069/mhraju069/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+---
+
+## &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/mhraju069" target="_blank">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0d0d0d?style=for-the-badge" />
+</a>
+
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/mhraju069" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-mhraju069-0d0d0d?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0d0d0d&color=00FFFF" />
+        <br/>
+        <sub><b>💻 &nbsp;Source Code & Projects</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/mhraju069" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=BB86FC&labelColor=0d0d0d&color=BB86FC" />
+        <br/>
+        <sub><b>🌐 &nbsp;Professional Network</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:mhraju069@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-Say%20Hello-0d0d0d?style=for-the-badge&logo=gmail&logoColor=7B2FBE&labelColor=0d0d0d&color=7B2FBE" />
+        <br/>
+        <sub><b>✉️ &nbsp;Drop a Message</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+> 💬 *"Open to collaborations, freelance gigs, and late-night infra debugging sessions."*
+
+</div>
 
 ---
 
