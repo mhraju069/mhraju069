@@ -81,10 +81,8 @@ motto      : "Any sufficiently advanced code is
 ## 🐍 &nbsp;Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/mhraju069/mhraju069/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github.com/mhraju069/mhraju069/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
-
-> ⚠️ **Setup required:** Go to your repo → Actions tab → New Workflow → paste the snake workflow YAML (see [Platane/snk](https://github.com/Platane/snk)) and replace the username with `mhraju069`.
 
 ---
 
