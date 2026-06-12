@@ -161,7 +161,7 @@ Motto      : "Any sufficiently advanced code is
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhraju069&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&logo=eye&labelColor=0d0d0d" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mhraju069&label=PROFILE+VIEWS&color=1A312C&style=for-the-badge&logo=eye&labelColor=0d0d0d" alt="profile views"/>
 </p>
 
 <p align="center">
