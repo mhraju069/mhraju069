@@ -15,11 +15,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: mhraju069
-          SETTING_JSON: |
-            {
-              "githubUserName": "mhraju069",
-              "themeContext": "dark"
-            }
+          MAX_REPOS: 10
+          THEME: night-rainbow
 
       - name: Commit & Push
         run: |
